@@ -31,7 +31,7 @@ Counter/
 
 ## 📸 Preview
 
-![Counter Interface Preview](http://ayaz300.github.io/Counter-App/)
+![Counter Interface Preview] http://ayaz300.github.io/Counter-App/
 
 ## 💻 How to Run
 
