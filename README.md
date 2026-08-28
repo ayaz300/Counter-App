@@ -29,10 +29,6 @@ Counter/
 └── README.md       # Project documentation
 ```
 
-## 📸 Preview
-
-![Counter Interface Preview](http://ayaz300.github.io/Counter-App/)
-
 ## 💻 How to Run
 
 1. **Clone the repository:**
